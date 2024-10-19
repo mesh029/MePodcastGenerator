@@ -1,4 +1,4 @@
-    name: "Podcast Generator"
+    name: "Me Podcast Generator"
     author: "Meshack Ariri"
     description: "Genertes a feed for a podcast from a XML file"
     runs:
